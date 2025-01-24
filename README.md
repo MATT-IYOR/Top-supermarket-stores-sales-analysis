@@ -12,6 +12,11 @@
 
 The goal of this project is to analyze sales data from 3 top supermarket stores located in 3 states to uncover patterns, trends, and insights that can hlep the businesses optimize their operations, marketing strategies, and inventory management. The analysis will focus on identifying high-performing products, understanding customer preferences, and providing actionable recommendations for improving sales performance.
 
+![Supermarketstore 2025-01-24 094956](https://github.com/user-attachments/assets/e3893c97-c7e6-4275-afd5-11b92d3be672)
+
+![SupermarketStore 2025-01-24 094848](https://github.com/user-attachments/assets/b8ffe5cd-399b-4f2e-9888-baa6f2ea363b)
+
+
 ### Data source
 
 Sales Data: The primary dataset used for the this analysis is the "Abuja_Branch.csv","Lagos_Branch.csv" and "Port_Harcourt_Branch.csv" containing sales information made by the company
